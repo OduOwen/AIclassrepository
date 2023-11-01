@@ -1,2 +1,2 @@
 # AIclassrepository
-This repository contains all the various assignments and projects I got to work on during my Student Work Experience Scheme (SIWES) internship at the National Centre of Artificial Intelligence and Robotics. 
+This repository contains all the various assignments and projects I got to work on during my Student Work Experience Scheme (SIWES) internship at the National Centre of Artificial Intelligence and Robotics. This is the place to be if you're interested in all things AI. You'll find a goldmine of resources, code samples, and  incredible projects to dive into. Feel free to explore, contribute, and learn. 
